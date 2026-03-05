@@ -1,0 +1,167 @@
+# Project Roadmap
+
+The Open Digital Pathology AI Toolkit aims to develop open, reproducible tools for quantitative histopathology and AI-assisted pathology workflows.
+
+The roadmap is divided into progressive development phases.
+
+---
+
+# Phase 1 — Project Foundation
+
+Establish the core infrastructure of the project.
+
+Goals:
+
+- Create public GitHub repository
+- Define project architecture
+- Publish documentation
+- Recruit collaborators and students
+- Define initial computational pathology pipelines
+
+Deliverables:
+
+- repository structure
+- documentation
+- roadmap
+- contribution guidelines
+
+---
+
+# Phase 2 — Histological Image Analysis
+
+Develop initial scripts for quantitative histology analysis.
+
+Planned tools:
+
+### Collagen Analysis
+
+Scripts for analyzing collagen in:
+
+- Picrosirius Red stained slides
+- H&E sections
+- SHG microscopy
+
+Planned metrics:
+
+- fiber length
+- fiber thickness
+- fiber orientation
+- fiber density
+- stromal organization
+
+Applications:
+
+- tumor microenvironment analysis
+- stromal remodeling studies
+- tumor invasion research
+
+---
+
+# Phase 3 — Tumor Microenvironment Quantification
+
+Develop pipelines to analyze tumor-stroma interactions.
+
+Potential features:
+
+- Tumor Associated Collagen Signatures (TACS)
+- tumor budding quantification
+- stromal density
+- immune cell distribution
+
+These tools aim to support research in:
+
+- oral squamous cell carcinoma
+- head and neck cancers
+- tumor microenvironment biology
+
+---
+
+# Phase 4 — Immunohistochemistry Analysis
+
+Develop standardized pipelines for digital IHC analysis.
+
+Planned tools:
+
+- automated cell segmentation
+- nuclear staining detection
+- cytoplasmic staining detection
+- H-score calculation
+- percentage of positive cells
+- staining intensity analysis
+
+Potential applications:
+
+- PD-L1 quantification
+- macrophage markers (CD68 / CD163)
+- proliferation markers (Ki-67)
+- EMT markers
+
+---
+
+# Phase 5 — FISH Signal Detection
+
+Develop tools for automated FISH analysis.
+
+Planned capabilities:
+
+- detection of fused signals
+- detection of split signals
+- measurement of signal distances
+- quantification of positive nuclei
+
+Applications:
+
+- gene rearrangements
+- amplification studies
+- molecular pathology research
+
+Example targets:
+
+- MAML2
+- ALK
+- HER2
+
+---
+
+# Phase 6 — AI-assisted Pathology Workflows
+
+Integrate large language models into pathology workflows.
+
+Potential tools:
+
+- pathology report structuring
+- extraction of morphological features from text
+- differential diagnosis support
+- research workflow automation
+
+---
+
+# Phase 7 — Digital Pathology Education
+
+Develop educational tools for pathology training.
+
+Examples:
+
+- AI-assisted diagnostic exercises
+- virtual histology cases
+- pathology quizzes
+- interactive diagnostic reasoning modules
+
+Target users:
+
+- pathology residents
+- medical students
+- researchers
+
+---
+
+# Phase 8 — Community and Open Science
+
+Expand the project into a collaborative computational pathology platform.
+
+Goals:
+
+- attract contributors
+- integrate public pathology datasets
+- publish scientific papers
+- support open computational pathology research

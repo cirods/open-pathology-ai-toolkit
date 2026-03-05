@@ -1,6 +1,7 @@
 # Open Digital Pathology AI Toolkit
 
 An open-source initiative to develop practical AI tools for digital pathology research, diagnostics, and education.
+This project aims to bridge the gap between computational pathology and traditional morphologic pathology by developing tools guided by expert pathologists.
 
 ## Overview
 
